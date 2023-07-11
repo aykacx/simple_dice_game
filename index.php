@@ -89,9 +89,8 @@
                 <h2>Rules</h2>
                 <ul>
                     <li>Enter your names before you embark on this thrilling journey!</li>
-                    <li>Let the first name control the left dice, and the second name control the right dice.</li>
+                    <li>The first name control the left dice, and the second name control the right dice.</li>
                     <li>Press the play button to step into the captivating game page.</li>
-                    <li>May the luckiest roll claim the precious oxygen!</li>
                     <li>Remember, the numbers are at the whims of fate. Best of luck on your daring adventure!</li>
                 </ul>
             </div>
